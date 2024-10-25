@@ -7,7 +7,7 @@
 }
 
 .textBlock{
-	flex-grow: 1;
+    flex-grow: 1;
     position: absolute;
     width: 603px;
     padding-top: 200px;
