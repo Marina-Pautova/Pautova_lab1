@@ -1,0 +1,9 @@
+.topBlock{
+    padding: 50px;
+    background: linear-gradient(132.05deg, #428E5F -17.38%, #112120 78.4%);
+}
+
+.botBlock{
+    padding: 50px;
+    margin-top: 50px;
+}
