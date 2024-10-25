@@ -1,0 +1,46 @@
+.topBlock{
+    color: #FFFFFF;
+}
+
+.greenBlock{
+    display: flex;
+}
+
+.textBlock{
+	flex-grow: 1;
+    position: absolute;
+    width: 603px;
+    padding-top: 200px;
+}
+
+.imgBlok{
+    flex-grow: 1;
+}
+
+.buttonTop{
+    background-color: #FFFFFF;
+    opacity: 75%;
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 15px;
+}
+
+.buttonBot{
+    background: linear-gradient(129.54deg, #FF7B4E 15.57%, #FF584E 95.03%);
+    color: #FFFFFF;
+    font-size: 25px;
+    padding: 25px;
+    border-radius: 27px;
+    margin-top: 50px;
+}
+
+.titleDesc{
+    font-size: 55px;
+    margin-top: 50px;
+}
+
+.textDesc{
+    font-size: 25px;
+    opacity: 50%;
+    margin-top: 50px;
+}
