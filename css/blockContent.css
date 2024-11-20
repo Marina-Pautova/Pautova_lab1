@@ -6,18 +6,18 @@
     display: flex;
 }
 
-.textBlock{
+.greenBlock_text{
     flex-grow: 1;
     position: absolute;
     width: 603px;
     padding-top: 200px;
 }
 
-.imgBlok{
+.greenBlock_imgBlok{
     flex-grow: 1;
 }
 
-.buttonTop{
+.greenBlock_text_buttonTop{
     background-color: #FFFFFF;
     opacity: 75%;
     padding: 15px;
@@ -25,7 +25,7 @@
     border-radius: 15px;
 }
 
-.buttonBot{
+.greenBlock_text_buttonBot{
     background: linear-gradient(129.54deg, #FF7B4E 15.57%, #FF584E 95.03%);
     color: #FFFFFF;
     font-size: 25px;
@@ -34,12 +34,12 @@
     margin-top: 50px;
 }
 
-.titleDesc{
+.greenBlock_text_title{
     font-size: 55px;
     margin-top: 50px;
 }
 
-.textDesc{
+.greenBlock_text_Desc{
     font-size: 25px;
     opacity: 50%;
     margin-top: 50px;
