@@ -2,33 +2,33 @@
     display: flex;
 }
 
-.rightDesc{
+.Desc{
     margin-left: 50px;
 }
 
-.usersQues{
+.Desc_usersQues{
     font-size: 45px;
 }
 
-.userBlock{
+.Desc_userBlock{
 	margin-top: 50px;
     display: flex;
 }
 
-.userImg{
+.Desc_userBlock_userImg{
     border-radius: 50%;
 }
 
-.desc{
+.Desc_userBlock_user{
     margin-top:  10px;
     margin-left:  20px;  
 }
 
-.descTitle{
+.Desc_userBlock_Desc_name{
     font-size: 33px;
 }
 
-.descText{
+.Desc_userBlock_Desc_place{
     margin-top:  10px;
     font-size: 25px;
     opacity: 50%;
@@ -40,7 +40,7 @@
     opacity: 50%;
 }
 
-.stars{
+.userAns_stars{
     display: flex;
     margin-top: 50px;
 }
