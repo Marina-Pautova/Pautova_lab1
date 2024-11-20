@@ -13,5 +13,6 @@
 }
 
 .mainWrapper{
-    margin: 30px;
+	width:1900px;
+	margin:0 auto;
 }
