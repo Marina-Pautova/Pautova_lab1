@@ -1,0 +1,15 @@
+.main{
+	padding: 10px;
+}
+
+.main_title{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.main_text{
+	font-size: 14px;
+	color: #846464;
+	line-height: 20px;
+	text-align: justify;
+}
