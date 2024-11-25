@@ -1,0 +1,33 @@
+.main{
+	display: flex;
+	font-family: 'Poppins', sans-serif;
+}
+
+.main_authorizForm{
+	margin: 104px;
+	flex-grow: 1;
+	position: static;
+	/* width: 512px; */
+	/* border: 1px solid black; */
+}
+
+.main_authorizForm_form{
+	height: 339px;
+	position: flex;
+	width: 512px;
+}
+
+/* .main_authorizForm_form div{
+	flex-grow: 1;
+
+} */
+
+.main_securImg{
+    flex-grow: 1;
+	/* border: 1px solid black; */
+	width: 616px;
+}
+
+.main_securImg img{
+	width: 100%;
+}
